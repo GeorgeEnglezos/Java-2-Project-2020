@@ -28,10 +28,10 @@
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0 (6)" level="application" />
-    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.web.container" level="application" />
-    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.module.container" level="application" />
-    <orderEntry type="module-library">
+    <orderEntry type="library" exported="" name="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0 (6)" level="application" />
+    <orderEntry type="library" exported="" name="org.eclipse.jst.j2ee.internal.web.container" level="application" />
+    <orderEntry type="library" exported="" name="org.eclipse.jst.j2ee.internal.module.container" level="application" />
+    <orderEntry type="module-library" exported="">
       <library name="commons-lang-2.6-javadoc.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/commons-lang-2.6-javadoc.jar" />
@@ -40,7 +40,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="commons-lang-2.6-sources.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/commons-lang-2.6-sources.jar" />
@@ -49,7 +49,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="commons-lang-2.6.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/commons-lang-2.6.jar" />
@@ -58,7 +58,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="jackson-annotations-2.9.8.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/jackson-annotations-2.9.8.jar" />
@@ -67,7 +67,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="jackson-core-2.9.8.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/jackson-core-2.9.8.jar" />
@@ -76,7 +76,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="jackson-databind-2.9.8.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/jackson-databind-2.9.8.jar" />
@@ -85,7 +85,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="javax.ws.rs.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/javax.ws.rs.jar" />
@@ -94,7 +94,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="jersey-client-1.19.1.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/jersey-client-1.19.1.jar" />
@@ -103,7 +103,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="jersey-core-1.19.1.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/jersey-core-1.19.1.jar" />
@@ -112,7 +112,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="jsr311-api-1.1.1.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/jsr311-api-1.1.1.jar" />
@@ -121,7 +121,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="httpclient-4.0.3.jar">
         <CLASSES>
           <root url="file:///Users/violos/Files/Coding/eclipse-workspace/OpenDataREST/jars/httpclient-4.0.3.jar" />
@@ -130,6 +130,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="jars" level="project" />
+    <orderEntry type="library" exported="" name="jars" level="project" />
   </component>
 </module>
